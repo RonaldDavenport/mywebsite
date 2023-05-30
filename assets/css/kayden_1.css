@@ -91,6 +91,9 @@ Table of Content
   transition: all 1s ease-in;
 }
 
+.btn-primary {
+ padding-bottom: 10px;   
+}
 .show-dark-mode {
   display: none;
 }
